@@ -1,13 +1,11 @@
 title: rafaelperoco
 paginate: 5
 theme: PaperMod
-themesDir: themes
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-cleanDestinationDir: true
 
 googleAnalytics: UA-123-45
 
