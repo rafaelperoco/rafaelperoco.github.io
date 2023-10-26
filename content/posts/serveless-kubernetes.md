@@ -25,7 +25,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://rafaelperoco.github.io/static/images/datacenter.jpg"
+    image: "static/images/datacenter.jpg"
     # alt: "Empty Datacenter"
     caption: "Using Kubernetes as a Serverless Platform"
     relative: false # when using page bundles set this to true
