@@ -25,11 +25,13 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "static/images/datacenter.jpg"
+    image: "datacenter.jpg"
     # alt: "Empty Datacenter"
     caption: "Using Kubernetes as a Serverless Platform"
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    relative: true # when using page bundles set this to true
+    hidden: false # only hide on current single page
+    responsiveImages: true # to generate responsive images
+
 editPost:
     URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text
