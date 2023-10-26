@@ -2,6 +2,7 @@ baseURL: "https://rafaelperoco.github.io"
 title: rafaelperoco
 paginate: 5
 theme: PaperMod
+themesDir: themes
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -14,7 +15,6 @@ minify:
   disableXML: true
   minifyOutput: true
 
-ignoreCache: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
