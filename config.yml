@@ -3,13 +3,9 @@ title: rafaelperoco
 paginate: 5
 theme: PaperMod
 
-module:
-  imports:
-    - path: PaperMod
-
 enableRobotsTXT: true
-buildDrafts: true
-buildFuture: true
+buildDrafts: false
+buildFuture: false
 buildExpired: false
 
 googleAnalytics: UA-123-45
@@ -34,7 +30,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
