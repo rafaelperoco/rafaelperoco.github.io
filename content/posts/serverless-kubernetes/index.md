@@ -1,6 +1,6 @@
 ---
 title: "Using Kubernetes as a Serverless Platform"
-date: 2021-03-15T11:30:03+00:00
+date: 2021-06-21T00:00:00-03:00
 # weight: 1
 aliases: ["/serveless-kubernetes"]
 tags: ["serverless","kubernetes","kubeless"]
